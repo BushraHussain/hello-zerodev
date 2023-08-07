@@ -6,7 +6,8 @@ import { useState, useMemo } from 'react';
 
 //------
 
-let defaultProjectId = "11926ef6-bfa1-4e40-8454-bd55ddb95f5d";
+// Setup in .env 
+let defaultProjectId = "";
 
 //-------
 export default function Home() {
